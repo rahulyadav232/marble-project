@@ -1,7 +1,6 @@
 <div align="center" style="margin: 30px;">
 
-![Cover Image](https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-09-06-daisy-ui-panel/daisyui.jpg "Cover Image")
-
+![marble-ai](https://github.com/rahulyadav232/marble-project/assets/68394509/594e8735-8126-47af-a338-129a4b5e647f)
 
 <br />
 <br />
@@ -47,6 +46,13 @@ Run the following command to download the project:
 ```
 npm create refine-app@latest -- --example blog-refine-daisyui
 ```
+
+install all package 
+
+```
+npm i
+```
+
 
 Once the setup is complete, navigate to the project folder and start your project with:
 
